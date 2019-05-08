@@ -1,4 +1,4 @@
-setTimeout(() => process.exit(0), 10000)
+setTimeout(() => process.exit(0), 1000)
 const Telegraf = require('telegraf')
 
 const bot = new Telegraf(process.argv[2])
