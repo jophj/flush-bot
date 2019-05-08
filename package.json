@@ -1,0 +1,23 @@
+{
+  "name": "flush-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flush-bot.js",
+  "dependencies": {
+    "telegraf": "^3.29.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jophj/flush-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jophj/flush-bot/issues"
+  },
+  "homepage": "https://github.com/jophj/flush-bot#readme"
+}
